@@ -1,129 +1,80 @@
-# Hi there, I'm Vaishnav 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+<h1>Hi, I'm Vaishnav K K 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&pause=1000&color=4DD8E8&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Data+%26+Analytics+Enthusiast;QA-Minded+Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Palakkad%2C%20Kerala-1a1a2e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Graduate%20Apprentice-Instrumentation%20Ltd.%20Palakkad-FFB300?style=flat-square" />
+  <img src="https://img.shields.io/badge/GATE%202026%20CS-331-4DD8E8?style=flat-square" />
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 Final Year B.Tech Computer Science Student
-- 💻 Passionate about AI, Machine Learning, and Web Development
-- 🌱 Currently learning Deep Learning and Large Language Models
-- 🔭 Interested in Open Source and Research
-- ⚡ Love solving real-world problems with technology
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👤 About Me
 
-### Programming Languages
+- 🎓 B.Tech in Computer Science & Engineering (2025) — Ahalia School of Engineering and Technology, APJ Abdul Kalam Technological University, Kerala
+- 🏢 Currently a **Graduate Apprentice** at **Instrumentation Limited Palakkad (ILP)**, a government instrumentation & automation PSU
+- 📊 GATE 2026 (CS) score: **331**
+- 🌱 I'd rather be broadly capable than narrowly specialized — comfortable moving between code, data, and analysis depending on what a problem actually needs
+- 📍 Based in Palakkad, Kerala, India
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+> Off the clock: tactical strategy games, hands-on car DIY, and keeping half an eye on geopolitical & maritime affairs.
 
 ---
 
-## 📂 Featured Projects
+### 🛠️ Skills
 
-### 🧠 Dementia Prediction System
-- Machine Learning-based prediction using clinical datasets
-- Built with Python, Streamlit, Scikit-Learn
-- Includes visualization, prediction, and report generation
+**Core toolkit** <!-- TODO: pick your real icons from https://skillicons.dev and replace the list below, e.g. i=python,java,cpp,js,html,css,git,mysql -->
 
----
+<img src="https://skillicons.dev/icons?i=REPLACE,WITH,YOUR,ICONS" />
 
-### 📚 Autism Research RAG System
-- Retrieval-Augmented Generation (RAG)
-- LangChain + Hugging Face + ChromaDB
-- PDF-based intelligent question answering
+**Data & Analytics**
 
----
+![IBM Data Analytics](https://img.shields.io/badge/IBM-Data%20Analytics%20Certified-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Certified-Generative%20AI-FFB300?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-Dashboards%20%26%20Reporting-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### 🤖 Machine Learning Experiments
-- SVM Hyperparameter Optimization
-- Reinforcement Learning
-- Model Evaluation
-- Data Visualization
+**Quality & Testing**
+
+![Software Testing](https://img.shields.io/badge/NPTEL-Software%20Testing%20Certified-3776AB?style=flat-square)
+
+**Professional Development**
+
+![Infosys Springboard](https://img.shields.io/badge/Infosys-Springboard-1A73E8?style=flat-square)
 
 ---
 
-## 📈 GitHub Stats
+### 🚀 Featured Projects
+<!-- TODO: swap in 2-3 real projects (name, one-line description, tech, repo link) — or delete this
+     section entirely and let your Pinned Repositories (set via GitHub profile settings) do this job instead -->
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+| Project | Description | Tech |
+|---|---|---|
+| [Project One](https://github.com/yourusername/repo-one) | One-line description of what it does and why it matters | Tech, Tech |
+| [Project Two](https://github.com/yourusername/repo-two) | One-line description of what it does and why it matters | Tech, Tech |
 
 ---
 
-## 📊 Contribution Graph
+### 📈 GitHub Stats
+<!-- TODO: replace "yourusername" in every URL below with your actual GitHub username -->
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-## 🎯 Current Goals
-
-- Learn Deep Learning
-- Build AI-powered applications
-- Contribute to Open Source
-- Master System Design
-- Publish impactful projects
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect
+<!-- TODO: replace the email and LinkedIn placeholders below -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourusername-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=4DD8E8&style=flat-square" alt="Profile views" />
+</div>
